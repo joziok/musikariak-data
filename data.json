@@ -57,7 +57,8 @@
       "track_num": 1,
       "album_id": 3450050701,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3450050701/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1005793520/transparent=true/\" seamless><a href=\"https://viafarataldea.bandcamp.com/album/denok-gara-etsai\">DENOK GARA ETSAI by VIAFARA</a></iframe>",
-      "track": "Norgehiagoka"
+      "track": "Norgehiagoka",
+      "clicks": 1
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/9acbdd74f818e6feb75fc1b070cfd842/mp3-128/1006405981?p=0&ts=1766149111&t=8076cc9cfdd910b2aa00010a4a7fc23442ce4ffa&token=1766149111_4dae4e9b14039bf6d278b0790f9571fa14e870b7",
@@ -541,7 +542,7 @@
       "album_id": 1388797113,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1388797113/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1044952565/transparent=true/\" seamless><a href=\"https://baliodute.bandcamp.com/album/bd19-adrian-perez-lozorroan-epel\">BD19 // ADRIAN PEREZ Lozorroan epel by BALIO DUTE</a></iframe>",
       "track": "Ikustezina",
-      "clicks": 14
+      "clicks": 15
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/44782dfeb3679be65e0d3ca5cb5417d7/mp3-128/1046011653?p=0&ts=1765532762&t=e43744a27802c9df6d17953f243bfe01268847e2&token=1765532762_bd44568bb3dbb1ee933b2bbbce3897b0553fa2d8",
@@ -3474,7 +3475,7 @@
       "album_id": 4205762874,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4205762874/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1216876832/transparent=true/\" seamless><a href=\"https://inoreneroni1.bandcamp.com/album/il-cercatore-di-perle\">il cercatore di perle by inoren ero ni</a></iframe>",
       "track": "amen eta orain",
-      "clicks": 2
+      "clicks": 3
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/1c300aff1b51e554b82291d867c83618/mp3-128/1216957390?p=0&ts=1765536631&t=69eea68fdd032fe558be1b2ad42acaa09b71794a&token=1765536631_7e65d635805a02b16d8167e8e54238af4b730c39",
@@ -3647,6 +3648,25 @@
       "album_id": 3124241058,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3124241058/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1228173014/transparent=true/\" seamless><a href=\"https://bayoulabatre.bandcamp.com/album/argilun\">Argilun by Bayou La Batre</a></iframe>",
       "track": "Zalantzak Dantzan"
+    },
+    {
+      "artist": "Sueder",
+      "artist_id": "Sueder",
+      "duration": 206,
+      "track_id": "1233233002",
+      "track_num": 7,
+      "album_id": 351564937,
+      "track": "Ikusten ez dena",
+      "mp3_url": "https://t4.bcbits.com/stream/744c41f338bdeb086aac468157e32b90/mp3-128/1233233002?p=0&ts=1767093210&t=11d38df3e08fa2b77c26cfb38754f14fdad96777&token=1767093210_6f00d9c62178d9dca2103f6668f70908a312b6e8",
+      "album_image_large": "https://f4.bcbits.com/img/a1719724740_10.jpg",
+      "album": "Ikusten ez dena",
+      "album_image": "https://f4.bcbits.com/img/a1719724740_3.jpg",
+      "createdAt": {
+        "_seconds": 1767006810,
+        "_nanoseconds": 290000000
+      },
+      "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=351564937/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1233233002/transparent=true/\" seamless><a href=\"https://sueder.bandcamp.com/track/ikusten-ez-dena\">Ikusten ez dena by Sueder</a></iframe>",
+      "url": "https://sueder.bandcamp.com/track/ikusten-ez-dena"
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/81282a611aafbeee350808b0d8e837f2/mp3-128/1233538335?p=0&ts=1765542119&t=8e3181f79a50793f522f11396e4039c4cb5edc03&token=1765542119_fa8738a42f77c12162d5238f51c3f191f8f62e57",
@@ -8766,7 +8786,7 @@
       "album_id": 486356520,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=486356520/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1607371485/transparent=true/\" seamless><a href=\"https://naxker.bandcamp.com/album/matxenia-ii\">Matxenia II by Naxker</a></iframe>",
       "track": "Bidelagun",
-      "clicks": 25
+      "clicks": 26
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/194540eb48d30705129e98f30b17fa12/mp3-128/1609043165?p=0&ts=1765542102&t=f834ae33fde233c36df85047aed3b0efe9166217&token=1765542102_14b5a7477e7916716716606eda438a4f408e0f87",
@@ -12986,6 +13006,25 @@
       "clicks": 5
     },
     {
+      "artist": "Sueder",
+      "artist_id": "Sueder",
+      "duration": 256,
+      "track_id": "1935792177",
+      "track_num": 4,
+      "album_id": 351564937,
+      "track": "Inola",
+      "mp3_url": "https://t4.bcbits.com/stream/236c1b1f591252c86ed23a0bd474a064/mp3-128/1935792177?p=0&ts=1767093206&t=bd756ce09b506bc2a826c3946f9cba66a6dbe89f&token=1767093206_67e665c4cc8987d0e4a9926c319155ab5aa6c187",
+      "album_image_large": "https://f4.bcbits.com/img/a3090982147_10.jpg",
+      "album": "Inola",
+      "album_image": "https://f4.bcbits.com/img/a3090982147_3.jpg",
+      "createdAt": {
+        "_seconds": 1767006806,
+        "_nanoseconds": 569000000
+      },
+      "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=351564937/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1935792177/transparent=true/\" seamless><a href=\"https://sueder.bandcamp.com/track/inola\">Inola by Sueder</a></iframe>",
+      "url": "https://sueder.bandcamp.com/track/inola"
+    },
+    {
       "mp3_url": "https://t4.bcbits.com/stream/3b46b88df29fd5941b804215b0bd5c3c/mp3-128/1940625290?p=0&ts=1765538542&t=c4d046c2fafee442ab32bfd05e76f2dd4d94d0df&token=1765538542_50c51d19cdf7ef23d9510bc4ae161f6752bc33af",
       "album_image_large": "https://f4.bcbits.com/img/a1326600523_10.jpg",
       "artist": "Mark Duti",
@@ -13486,7 +13525,7 @@
       },
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3649038020/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1964740869/transparent=true/\" seamless><a href=\"https://blonbanolet.bandcamp.com/track/han\">Han by Bloñ</a></iframe>",
       "url": "https://blonbanolet.bandcamp.com/track/han",
-      "clicks": 6
+      "clicks": 7
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/810256f7521cbf3dc4915a08424b0748/mp3-128/1965259667?p=0&ts=1765621868&t=e04779ddf5cbe641e8a651748bff66d78d318852&token=1765621868_c58249b8fa9f92f05ffb5a96f5de50bc07c84343",
@@ -13888,7 +13927,8 @@
       "track_num": 2,
       "album_id": 2085694111,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2085694111/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1987958232/transparent=true/\" seamless><a href=\"https://denaezer.bandcamp.com/album/ezer-sentitzeko\">Ezer Sentitzeko by DENA</a></iframe>",
-      "track": "lö"
+      "track": "lö",
+      "clicks": 1
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/65072da6f812b636dbb6d0048619975d/mp3-128/1994867105?p=0&ts=1767090632&t=4ff6d97560d752e60c314931bad423cf7e492a78&token=1767090632_50c9431c97b7afded5964bc0fd679b598101d2e7",
@@ -15780,7 +15820,7 @@
       "album_id": 1984354955,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1984354955/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=2115403267/transparent=true/\" seamless><a href=\"https://borla.bandcamp.com/album/kordoba-bidea\">Kordoba Bidea by Borla</a></iframe>",
       "track": "Berorik Ez",
-      "clicks": 13
+      "clicks": 14
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/bf337c4f6929202dfdf3beeba6db0d71/mp3-128/2116032898?p=0&ts=1765532816&t=62bc7bf1d9cf0d596509d4fe9a0fd362632d4a14&token=1765532816_0c5fe0d0465a8a9635a6d5fcdb59a5e2182b4101",
@@ -18155,7 +18195,7 @@
       "album_id": 2206591737,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2206591737/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=2271538177/transparent=true/\" seamless><a href=\"https://neversurrender108.bandcamp.com/album/11-istorio-broncka-ta-gau-ero-2010\">11 istorio, bROnCKa ta gau ero (2010) by Never Surrender</a></iframe>",
       "track": "BONUS TRACK - 11 istorio bRonCKa ta gau ero",
-      "clicks": 1
+      "clicks": 2
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/4ad9e954bf805c175305d078bb89a24f/mp3-128/2272318337?p=0&ts=1765531793&t=18de9799863562e7bf93662373ba967d4ba49aaa&token=1765531793_b9d15c3ae3c02ec443c2983c110a3d99ee849e69",
@@ -19918,6 +19958,25 @@
       "album_id": 449064456,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=449064456/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=240011826/transparent=true/\" seamless><a href=\"https://horzdun.bandcamp.com/album/barealdiaren-ondorengo-ekaitzak\">Barealdiaren ondorengo ekaitzak... by Horzdun</a></iframe>",
       "track": "Ahulen kontrola"
+    },
+    {
+      "artist": "Sueder",
+      "artist_id": "Sueder",
+      "duration": 208.5,
+      "track_id": "2400386635",
+      "track_num": 5,
+      "album_id": 351564937,
+      "track": "Goxter",
+      "album_image_large": "https://f4.bcbits.com/img/a3050775489_10.jpg",
+      "album": "Goxter",
+      "album_image": "https://f4.bcbits.com/img/a3050775489_3.jpg",
+      "mp3_url": "https://t4.bcbits.com/stream/986482717354ed5e736a27db9e2d397f/mp3-128/2400386635?p=0&ts=1767093207&t=da425dfd938dcde7bfb56f41a2a82caafa30cccb&token=1767093207_d9cea28f0e70744a4c6d751aaf758ff1f5dd208e",
+      "createdAt": {
+        "_seconds": 1767006808,
+        "_nanoseconds": 58000000
+      },
+      "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=351564937/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=2400386635/transparent=true/\" seamless><a href=\"https://sueder.bandcamp.com/track/goxter\">Goxter by Sueder</a></iframe>",
+      "url": "https://sueder.bandcamp.com/track/goxter"
     },
     {
       "album_image_large": "https://f4.bcbits.com/img/a2516891443_10.jpg",
@@ -24960,6 +25019,25 @@
       "url": "https://isuo.bandcamp.com/track/espaziuntziko-mutila"
     },
     {
+      "artist": "Sueder",
+      "artist_id": "Sueder",
+      "duration": 173.5,
+      "track_id": "2746853122",
+      "track_num": 2,
+      "album_id": 351564937,
+      "track": "Tentagarria",
+      "album_image_large": "https://f4.bcbits.com/img/a3056972071_10.jpg",
+      "album": "Tentagarria",
+      "album_image": "https://f4.bcbits.com/img/a3056972071_3.jpg",
+      "mp3_url": "https://t4.bcbits.com/stream/7c6d351d746ae5dd95d1700486b2937c/mp3-128/2746853122?p=0&ts=1767093203&t=34958aa7712fd31a3808a464c6799082e9a2839d&token=1767093203_fd53b3e19246d7555cf6ee4ef786d430518e7ea7",
+      "createdAt": {
+        "_seconds": 1767006804,
+        "_nanoseconds": 102000000
+      },
+      "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=351564937/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=2746853122/transparent=true/\" seamless><a href=\"https://sueder.bandcamp.com/track/tentagarria\">Tentagarria by Sueder</a></iframe>",
+      "url": "https://sueder.bandcamp.com/track/tentagarria"
+    },
+    {
       "album_image_large": "https://f4.bcbits.com/img/a1731506739_10.jpg",
       "artist": "argazki bat behelainoan",
       "artist_id": "argazki bat behelainoan",
@@ -24977,7 +25055,7 @@
       "album": "Geldi Gu Eta Dena Huts",
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1438366455/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=2748674365/transparent=true/\" seamless><a href=\"https://argazkibatbehelainoan.bandcamp.com/album/geldi-gu-eta-dena-huts\">Geldi Gu Eta Dena Huts by argazki bat behelainoan</a></iframe>",
       "url": "https://argazkibatbehelainoan.bandcamp.com/album/geldi-gu-eta-dena-huts",
-      "clicks": 5
+      "clicks": 6
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/425e9262cb589db99a3f999593a59a0b/mp3-128/2749057589?p=0&ts=1766159036&t=62b62515d625ff86a68dce1d9d8d50cdbe21b044&token=1766159036_7968d365c2c90ba04c1996f9fa78dc7f61f09488",
@@ -27389,7 +27467,7 @@
       },
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3649038020/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=2911039549/transparent=true/\" seamless><a href=\"https://blonbanolet.bandcamp.com/track/50\">50 by Bloñ</a></iframe>",
       "url": "https://blonbanolet.bandcamp.com/track/50",
-      "clicks": 16
+      "clicks": 17
     },
     {
       "album_image_large": "https://f4.bcbits.com/img/a1727375564_10.jpg",
@@ -28391,7 +28469,7 @@
       "album_id": 1964641934,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1964641934/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=2996094502/transparent=true/\" seamless><a href=\"https://perlata.bandcamp.com/album/zarata\">ZARATA by PERLATA & DILLINGERS</a></iframe>",
       "track": "Gurea zen II",
-      "clicks": 2
+      "clicks": 4
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/6883aea819dd633f8c97b6b737ee1294/mp3-128/2997183023?p=0&ts=1765536731&t=5c4eef72027b1d3e644d4c2af880a134089f8774&token=1765536731_aaeb5b92e03cb63af3e9f64866cba9f5a665ebe4",
@@ -32242,7 +32320,7 @@
       "album_id": 94827095,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=94827095/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3240681868/transparent=true/\" seamless><a href=\"https://zikin.bandcamp.com/album/zementua-armosaten\">Zementua Armosaten by Zikin</a></iframe>",
       "track": "Jodidu",
-      "clicks": 1
+      "clicks": 2
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/65037ed87db633e4ac481ed228735982/mp3-128/3243441451?p=0&ts=1765528665&t=e0523b87978f01e3a6d584029be4ac6c5b53e85c&token=1765528665_d19f47ade7790d56ae02d59a6453acfbcc991da6",
@@ -32857,7 +32935,7 @@
       "album_id": 3290898507,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=3290898507/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/\" seamless><a href=\"https://xutikkba.bandcamp.com/track/ametsak\">Ametsak by Xutik</a></iframe>",
       "track": "Ametsak",
-      "clicks": 8
+      "clicks": 9
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/1484c99a19ea664b8e29eadae4cfa8af/mp3-128/3291538206?p=0&ts=1765532587&t=43155f8baf4490f21d64a676d8b76d9bfdfd3927&token=1765532587_5c387e5e6fe01a4cbe67559d832f4a6da8c7ec06",
@@ -33847,6 +33925,25 @@
       "track": "Basatia"
     },
     {
+      "artist": "Sueder",
+      "artist_id": "Sueder",
+      "duration": 223,
+      "track_id": "3358019286",
+      "track_num": 1,
+      "album_id": 351564937,
+      "track": "Bagoaz",
+      "album_image_large": "https://f4.bcbits.com/img/a68654312_10.jpg",
+      "album": "Bagoaz",
+      "album_image": "https://f4.bcbits.com/img/a68654312_3.jpg",
+      "mp3_url": "https://t4.bcbits.com/stream/2bc2c2e56b69ddc3b781d6932d991ce3/mp3-128/3358019286?p=0&ts=1767093201&t=d9031669052d39ff585c9ed86d54ebf8f6f1de27&token=1767093201_d312d0277a96aaa98fee1d7682ff05e51d9bea90",
+      "createdAt": {
+        "_seconds": 1767006802,
+        "_nanoseconds": 217000000
+      },
+      "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=351564937/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3358019286/transparent=true/\" seamless><a href=\"https://sueder.bandcamp.com/track/bagoaz\">Bagoaz by Sueder</a></iframe>",
+      "url": "https://sueder.bandcamp.com/track/bagoaz"
+    },
+    {
       "mp3_url": "https://t4.bcbits.com/stream/721f055148069d54a3d5e63744850e70/mp3-128/3359361881?p=0&ts=1765536915&t=aabd0656c944f67d4da486e162593d3605f41270&token=1765536915_28d076deb716846e159cb73b6f7627d60afd7035",
       "album_image_large": "https://f4.bcbits.com/img/a2314945310_10.jpg",
       "artist": "kokein",
@@ -34464,6 +34561,25 @@
       "album_id": 2225367716,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2225367716/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3402179343/transparent=true/\" seamless><a href=\"https://argazkibatbehelainoan.bandcamp.com/album/capone-rules\">Capone Rules by argazki bat behelainoan</a></iframe>",
       "track": "Al Rules"
+    },
+    {
+      "artist": "Sueder",
+      "artist_id": "Sueder",
+      "duration": 189.5,
+      "track_id": "3402965172",
+      "track_num": 3,
+      "album_id": 351564937,
+      "track": "Udako gau (b)eroak",
+      "album_image_large": "https://f4.bcbits.com/img/a751880691_10.jpg",
+      "album": "Udako gau (b)eroak",
+      "album_image": "https://f4.bcbits.com/img/a751880691_3.jpg",
+      "mp3_url": "https://t4.bcbits.com/stream/d2a32aea818ca01a0190367fbfa35bef/mp3-128/3402965172?p=0&ts=1767093205&t=b3c09869a3c8c92cc11987217f614752480da585&token=1767093205_35ec4b62d4e486da57bd92cb4075b7bbebcbf219",
+      "createdAt": {
+        "_seconds": 1767006805,
+        "_nanoseconds": 637000000
+      },
+      "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=351564937/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3402965172/transparent=true/\" seamless><a href=\"https://sueder.bandcamp.com/track/udako-gau-b-eroak\">Udako gau (b)eroak by Sueder</a></iframe>",
+      "url": "https://sueder.bandcamp.com/track/udako-gau-b-eroak"
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/ea3df4b3130c9fefebf2bd70fed2d318/mp3-128/3403913073?p=0&ts=1766159034&t=62d8d9ea15c81c12280ba87442015dc65e9d293b&token=1766159034_be0e1243453d72774423b3e15965f2f06f008bc2",
@@ -36218,7 +36334,7 @@
       "album": "Maputxe",
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3598704178/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3520715059/transparent=true/\" seamless><a href=\"https://ferminmuguruza.bandcamp.com/track/maputxe\">Maputxe by FERMIN MUGURUZA</a></iframe>",
       "url": "https://ferminmuguruza.bandcamp.com/track/maputxe",
-      "clicks": 69
+      "clicks": 71
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/26472ee614bf897dfc5f78fdec6c2a9d/mp3-128/3525663800?p=0&ts=1765532607&t=197855aa714bcfaf81d28d6e36aee16559a12ed9&token=1765532607_c2d5a24245db8e70aaa9247197318b8ae163bb3b",
@@ -36878,7 +36994,7 @@
       "album_id": 3921590895,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3921590895/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3570838827/transparent=true/\" seamless><a href=\"https://kobantaldea.bandcamp.com/album/koban\">KOBAN by KOBAN</a></iframe>",
       "track": "Panpin Puskatuen Fabrika",
-      "clicks": 4
+      "clicks": 5
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/dd7dfc727355c043401534f3ff61a247/mp3-128/3570866597?p=0&ts=1765540908&t=32ffa77baf64a31d8db6fc60d25798d51e279ad5&token=1765540908_4ec4b4a4ef7c48e35f2b8af3d883e4c440e400cd",
@@ -37729,6 +37845,25 @@
       "album_id": 3165357821,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3165357821/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3623889304/transparent=true/\" seamless><a href=\"https://onlifly.bandcamp.com/album/hautz-tartian\">HAUTZ TARTIAN by ONLIFLY</a></iframe>",
       "track": "Bueltan"
+    },
+    {
+      "artist": "Sueder",
+      "artist_id": "Sueder",
+      "duration": 253.5,
+      "track_id": "3623955723",
+      "track_num": 6,
+      "album_id": 351564937,
+      "track": "2312",
+      "mp3_url": "https://t4.bcbits.com/stream/ad8831be0c551df43e136a788d5c0b62/mp3-128/3623955723?p=0&ts=1767093209&t=6e6a6c46d29c182b9b35863f19e7a98e98f86166&token=1767093209_aba00d5a1cec65811f4e2d5910cad8f839d5b190",
+      "album_image_large": "https://f4.bcbits.com/img/a3707996113_10.jpg",
+      "album": "2312",
+      "album_image": "https://f4.bcbits.com/img/a3707996113_3.jpg",
+      "createdAt": {
+        "_seconds": 1767006809,
+        "_nanoseconds": 380000000
+      },
+      "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=351564937/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3623955723/transparent=true/\" seamless><a href=\"https://sueder.bandcamp.com/track/2312\">2312 by Sueder</a></iframe>",
+      "url": "https://sueder.bandcamp.com/track/2312"
     },
     {
       "album_image_large": "https://f4.bcbits.com/img/a1148202911_10.jpg",
@@ -38751,7 +38886,8 @@
       "createdAt": {
         "_seconds": 1766959825,
         "_nanoseconds": 669000000
-      }
+      },
+      "clicks": 1
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/8310271fe49565b157835677add65209/mp3-128/3715910879?p=0&ts=1765621905&t=8588ac633ff5e06d5841b751d03111a7b36b9c09&token=1765621905_7328246b562be36949323b6657ee10a403423683",
@@ -40000,7 +40136,8 @@
         "_nanoseconds": 628000000
       },
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=2276807099/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3804160633/transparent=true/\" seamless><a href=\"https://bazka.bandcamp.com/track/balea-eta-izotza-2022-01-01\">BALEA eta IZOTZA  2022/01/01 by BAZKA</a></iframe>",
-      "url": "https://bazka.bandcamp.com/track/balea-eta-izotza-2022-01-01"
+      "url": "https://bazka.bandcamp.com/track/balea-eta-izotza-2022-01-01",
+      "clicks": 1
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/fcf9682c168815ab8e52345dc879b5e4/mp3-128/3805162620?p=0&ts=1765536593&t=0782fd8f83d7edd2ff808d91cb4361ed76b2b748&token=1765536593_aaea25653f4e9ac6ce0b52b87832024271f535d7",
@@ -41329,7 +41466,7 @@
       "album_id": 312808348,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=312808348/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3886084719/transparent=true/\" seamless><a href=\"https://gingerband.bandcamp.com/album/ginger-2\">Ginger by Ginger</a></iframe>",
       "track": "Arnasteko",
-      "clicks": 2
+      "clicks": 3
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/8336dca98f5e0b6390a2395b18bb7193/mp3-128/3886700825?p=0&ts=1765614266&t=cfe9dcf4c78b7adfc71e46a04ef0606c39a23773&token=1765614266_6baf19f1d827a86e557094de0a3782680fe6df61",
@@ -47252,7 +47389,7 @@
       "album_id": 4278166083,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=4278166083/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/\" seamless><a href=\"https://esanezin.bandcamp.com/track/gure-zauria-ft-sara-zozaya\">Gure Zauria (ft. Sara Zozaya) by Esanezin, Sara Zozaya</a></iframe>",
       "track": "Esanezin, Sara Zozaya - Gure Zauria (ft. Sara Zozaya)",
-      "clicks": 5
+      "clicks": 6
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/43c4ad58e32fc786cbc2c684f1c9fa6b/mp3-128/4278887114?p=0&ts=1765538893&t=67580e5406e7b421e7d85e4bd0e6ce9e6f716644&token=1765538893_19a22087cb89ef9ba8e793b83e7e3f62255d08b9",
@@ -51392,7 +51529,8 @@
       "track_num": 3,
       "album_id": 1984354955,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1984354955/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=682988144/transparent=true/\" seamless><a href=\"https://borla.bandcamp.com/album/kordoba-bidea\">Kordoba Bidea by Borla</a></iframe>",
-      "track": "Astearteko Jazz"
+      "track": "Astearteko Jazz",
+      "clicks": 1
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/d636da91e416f3af42c22fa47bfa5bd0/mp3-128/68304267?p=0&ts=1766159039&t=70bfbe7ea7e1873ceaaa077f8f3779e88c59f5ca&token=1766159039_097a76b1afd6affe45397945cb293c7ee15ca88c",
@@ -53061,7 +53199,7 @@
       },
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=716322489/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=808485957/transparent=true/\" seamless><a href=\"https://nakar.bandcamp.com/track/epelkeriaren-kontra-ii-manifestu-antiepelista\">Epelkeriaren Kontra II (Manifestu Antiepelista) by Nakar</a></iframe>",
       "url": "https://nakar.bandcamp.com/track/epelkeriaren-kontra-ii-manifestu-antiepelista",
-      "clicks": 10
+      "clicks": 11
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/53381aaaba3a6e0f81a8b36a04c25f8c/mp3-128/809372955?p=0&ts=1766159043&t=b7ce3a6219111a1e4561bef7c8138e85ce52053b&token=1766159043_e2a256c7cbfa56a5ecc33f2aff0ecc925ead8757",
@@ -54818,7 +54956,7 @@
       "album": "Intro",
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=539974195/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=948188461/transparent=true/\" seamless><a href=\"https://autobusmagikoa.bandcamp.com/track/intro\">Intro by Autobus Magikoa</a></iframe>",
       "url": "https://autobusmagikoa.bandcamp.com/track/intro",
-      "clicks": 68
+      "clicks": 69
     },
     {
       "album_image_large": "https://f4.bcbits.com/img/a3373996396_10.jpg",
@@ -55416,7 +55554,8 @@
       "track_num": 1,
       "album_id": 4133794545,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4133794545/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=981268901/transparent=true/\" seamless><a href=\"https://thepurplesrock.bandcamp.com/album/the-purples\">The Purples by The Purples</a></iframe>",
-      "track": "80`s"
+      "track": "80`s",
+      "clicks": 1
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/1b5158c0f9cb757f53ec339fc609031f/mp3-128/982114668?p=0&ts=1765541969&t=1e96f8e5741d6e5c191445d4d55426018ff878b0&token=1765541969_b3dbdcdb33fd5a69a12be380af563c75e8ed76ed",
@@ -55779,7 +55918,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0040842690_10.jpg",
       "name": "AGARA",
       "artist_id": "AGARA",
-      "clicks": 153
+      "clicks": 155
     },
     {
       "id": "ALBA",
@@ -55792,7 +55931,7 @@
       "name": "Alba",
       "artist_image": "https://f4.bcbits.com/img/a0892527934_21.jpg",
       "artist_image_large": "https://f4.bcbits.com/img/a0892527934_10.jpg",
-      "clicks": 100
+      "clicks": 104
     },
     {
       "id": "APOSAPO",
@@ -55817,7 +55956,7 @@
       "isManual": true,
       "name": "Adrian Perez",
       "artist_id": "Adrian Perez",
-      "clicks": 151
+      "clicks": 156
     },
     {
       "id": "Adur",
@@ -55829,7 +55968,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0037424085_10.jpg",
       "name": "Adur",
       "artist_id": "Adur",
-      "clicks": 225
+      "clicks": 227
     },
     {
       "id": "Akainak",
@@ -55841,7 +55980,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0024684597_10.jpg",
       "name": "Akainak",
       "artist_id": "Akainak",
-      "clicks": 70
+      "clicks": 84
     },
     {
       "id": "Audience",
@@ -55866,7 +56005,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0008209592_10.jpg",
       "name": "Autobus Magikoa",
       "artist_id": "Autobus Magikoa",
-      "clicks": 510
+      "clicks": 512
     },
     {
       "id": "Azalera Taldea",
@@ -55903,7 +56042,7 @@
       "isManual": true,
       "name": "BELLUM",
       "artist_id": "BELLUM",
-      "clicks": 101
+      "clicks": 102
     },
     {
       "id": "BETA PROIEKTUA",
@@ -55927,7 +56066,7 @@
         "_seconds": 1766959825,
         "_nanoseconds": 669000000
       },
-      "clicks": 4
+      "clicks": 6
     },
     {
       "id": "BLOÑ",
@@ -55939,7 +56078,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0027108526_10.jpg",
       "name": "BLOÑ",
       "artist_id": "BLOÑ",
-      "clicks": 147
+      "clicks": 150
     },
     {
       "id": "BRAULIO",
@@ -55951,7 +56090,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0018461056_10.jpg",
       "name": "BRAULIO",
       "artist_id": "BRAULIO",
-      "clicks": 55
+      "clicks": 56
     },
     {
       "id": "BROKEN LEGACY",
@@ -56035,7 +56174,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0030824472_10.jpg",
       "name": "Blakkat Mentxu",
       "artist_id": "Blakkat Mentxu",
-      "clicks": 37
+      "clicks": 38
     },
     {
       "id": "Borla",
@@ -56047,7 +56186,7 @@
       "artist_id": "Borla",
       "artist_image": "https://f4.bcbits.com/img/0035950473_21.jpg",
       "artist_image_large": "https://f4.bcbits.com/img/0035950473_10.jpg",
-      "clicks": 240
+      "clicks": 244
     },
     {
       "id": "Borrokan",
@@ -56059,7 +56198,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0002307771_10.jpg",
       "name": "Borrokan",
       "artist_id": "Borrokan",
-      "clicks": 107
+      "clicks": 109
     },
     {
       "id": "Broken Brothers Brass Band",
@@ -56071,7 +56210,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0006855066_10.jpg",
       "name": "Broken Brothers Brass Band",
       "artist_id": "Broken Brothers Brass Band",
-      "clicks": 149
+      "clicks": 153
     },
     {
       "id": "BÑT",
@@ -56083,7 +56222,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0026742522_10.jpg",
       "name": "BÑT",
       "artist_id": "BÑT",
-      "clicks": 50
+      "clicks": 53
     },
     {
       "id": "Chulería joder",
@@ -56095,7 +56234,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0034692924_10.jpg",
       "name": "Chulería joder",
       "artist_id": "Chulería joder",
-      "clicks": 190
+      "clicks": 193
     },
     {
       "id": "Cuero",
@@ -56120,7 +56259,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0039041926_10.jpg",
       "name": "DENA",
       "artist_id": "DENA",
-      "clicks": 137
+      "clicks": 138
     },
     {
       "id": "Daño Dolor",
@@ -56157,7 +56296,7 @@
       "isManual": true,
       "name": "El corazon de Sapo",
       "artist_id": "El corazon de Sapo",
-      "clicks": 177
+      "clicks": 178
     },
     {
       "id": "Erantzun",
@@ -56182,7 +56321,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0040011340_10.jpg",
       "name": "Esanezin",
       "artist_id": "Esanezin",
-      "clicks": 288
+      "clicks": 294
     },
     {
       "id": "Eskafandra",
@@ -56206,7 +56345,7 @@
       },
       "artist_image": "https://f4.bcbits.com/img/0041868913_21.jpg",
       "artist_image_large": "https://f4.bcbits.com/img/0041868913_10.jpg",
-      "clicks": 781
+      "clicks": 786
     },
     {
       "id": "Fito SKins",
@@ -56218,7 +56357,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0041427523_10.jpg",
       "name": "Fito SKins",
       "artist_id": "Fito SKins",
-      "clicks": 118
+      "clicks": 121
     },
     {
       "id": "GATZ",
@@ -56243,7 +56382,7 @@
       "isManual": true,
       "name": "Gaizka Insunza",
       "artist_id": "Gaizka Insunza",
-      "clicks": 42
+      "clicks": 43
     },
     {
       "id": "Galder",
@@ -56256,7 +56395,7 @@
       "isManual": true,
       "name": "Galder",
       "artist_id": "Galder",
-      "clicks": 83
+      "clicks": 84
     },
     {
       "id": "Ganzúa",
@@ -56280,7 +56419,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0040716655_10.jpg",
       "name": "Garena",
       "artist_id": "Garena",
-      "clicks": 52
+      "clicks": 53
     },
     {
       "id": "Giante",
@@ -56304,7 +56443,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0034318600_10.jpg",
       "name": "Ginger",
       "artist_id": "Ginger",
-      "clicks": 79
+      "clicks": 81
     },
     {
       "id": "Goma-2",
@@ -56316,7 +56455,7 @@
         "_seconds": 1765446737,
         "_nanoseconds": 841000000
       },
-      "clicks": 41
+      "clicks": 42
     },
     {
       "id": "HORZDUN",
@@ -56436,7 +56575,7 @@
       },
       "artist_image": "https://f4.bcbits.com/img/0031735176_21.jpg",
       "artist_image_large": "https://f4.bcbits.com/img/0031735176_10.jpg",
-      "clicks": 457
+      "clicks": 465
     },
     {
       "id": "Isuo ta Kezman",
@@ -56473,7 +56612,7 @@
       "isManual": true,
       "name": "Izvkiari",
       "artist_id": "Izvkiari",
-      "clicks": 25
+      "clicks": 26
     },
     {
       "id": "Jipoituak",
@@ -56509,7 +56648,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0028730562_10.jpg",
       "name": "Joseba B. Lenoir",
       "artist_id": "Joseba B. Lenoir",
-      "clicks": 99
+      "clicks": 101
     },
     {
       "id": "Joseba Irazoki",
@@ -56557,7 +56696,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0013095950_10.jpg",
       "name": "KOBAN",
       "artist_id": "KOBAN",
-      "clicks": 95
+      "clicks": 97
     },
     {
       "id": "Karam",
@@ -56677,7 +56816,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0028782649_10.jpg",
       "name": "MICE",
       "artist_id": "MICE",
-      "clicks": 135
+      "clicks": 136
     },
     {
       "id": "MYOTONES",
@@ -56713,7 +56852,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0037660861_10.jpg",
       "name": "Maddi",
       "artist_id": "Maddi",
-      "clicks": 87
+      "clicks": 88
     },
     {
       "id": "Mahl Kobat",
@@ -56774,7 +56913,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0020521767_10.jpg",
       "name": "Mihise",
       "artist_id": "Mihise",
-      "clicks": 53
+      "clicks": 54
     },
     {
       "id": "Mikosis",
@@ -56810,7 +56949,7 @@
         "_nanoseconds": 736000000
       },
       "artist_image_large": "https://f4.bcbits.com/img/0041565662_10.jpg",
-      "clicks": 335
+      "clicks": 339
     },
     {
       "id": "Muare",
@@ -56846,7 +56985,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0034185572_10.jpg",
       "name": "Nakar",
       "artist_id": "Nakar",
-      "clicks": 200
+      "clicks": 208
     },
     {
       "id": "Naxker",
@@ -56858,7 +56997,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0041015946_10.jpg",
       "name": "Naxker",
       "artist_id": "Naxker",
-      "clicks": 311
+      "clicks": 314
     },
     {
       "id": "Neu Troia",
@@ -56882,7 +57021,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0001863072_10.jpg",
       "name": "Never Surrender",
       "artist_id": "Never Surrender",
-      "clicks": 97
+      "clicks": 99
     },
     {
       "id": "Nhil",
@@ -56930,7 +57069,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/a470176711_10.jpg",
       "name": "Norman Bates",
       "artist_id": "Norman Bates",
-      "clicks": 35
+      "clicks": 36
     },
     {
       "id": "ONLIFLY",
@@ -56942,7 +57081,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0025915326_10.jpg",
       "name": "ONLIFLY",
       "artist_id": "ONLIFLY",
-      "clicks": 16
+      "clicks": 17
     },
     {
       "id": "Obego",
@@ -56978,7 +57117,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0036308132_10.jpg",
       "name": "Ohil",
       "artist_id": "Ohil",
-      "clicks": 12
+      "clicks": 13
     },
     {
       "id": "Orbel",
@@ -57014,7 +57153,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0018860611_10.jpg",
       "name": "Perlata",
       "artist_id": "Perlata",
-      "clicks": 63
+      "clicks": 65
     },
     {
       "id": "Peru Galbete",
@@ -57026,7 +57165,7 @@
         "_seconds": 1765455872,
         "_nanoseconds": 489000000
       },
-      "clicks": 65
+      "clicks": 66
     },
     {
       "id": "Physis versus Nomos",
@@ -57125,6 +57264,17 @@
       "clicks": 37
     },
     {
+      "id": "Sueder",
+      "createdAt": {
+        "_seconds": 1767006802,
+        "_nanoseconds": 217000000
+      },
+      "artist_image": "https://f4.bcbits.com/img/0042196754_21.jpg",
+      "artist_image_large": "https://f4.bcbits.com/img/0042196754_10.jpg",
+      "name": "Sueder",
+      "artist_id": "Sueder"
+    },
+    {
       "id": "TXORIBURU",
       "createdAt": {
         "_seconds": 1765455633,
@@ -57158,7 +57308,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0018528658_10.jpg",
       "name": "The Northagirres",
       "artist_id": "The Northagirres",
-      "clicks": 1
+      "clicks": 2
     },
     {
       "id": "The Purples",
@@ -57169,7 +57319,8 @@
       "artist_image": "https://f4.bcbits.com/img/0042183772_21.jpg",
       "artist_image_large": "https://f4.bcbits.com/img/0042183772_10.jpg",
       "name": "The Purples",
-      "artist_id": "The Purples"
+      "artist_id": "The Purples",
+      "clicks": 5
     },
     {
       "id": "The Rodeo Idiot Engine",
@@ -57181,7 +57332,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0006142216_10.jpg",
       "name": "The Rodeo Idiot Engine",
       "artist_id": "The Rodeo Idiot Engine",
-      "clicks": 15
+      "clicks": 16
     },
     {
       "id": "The iiingles",
@@ -57253,7 +57404,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0042003216_10.jpg",
       "name": "Viafara",
       "artist_id": "Viafara",
-      "clicks": 11
+      "clicks": 12
     },
     {
       "id": "Victimas Club",
@@ -57277,7 +57428,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0034059374_10.jpg",
       "name": "Xabier Badiola",
       "artist_id": "Xabier Badiola",
-      "clicks": 69
+      "clicks": 70
     },
     {
       "id": "Xak",
@@ -57289,7 +57440,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0039399607_10.jpg",
       "name": "Xak",
       "artist_id": "Xak",
-      "clicks": 76
+      "clicks": 77
     },
     {
       "id": "Xatiro",
@@ -57301,7 +57452,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0039269003_10.jpg",
       "name": "Xatiro",
       "artist_id": "Xatiro",
-      "clicks": 84
+      "clicks": 85
     },
     {
       "id": "Xutik",
@@ -57313,7 +57464,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0034386869_10.jpg",
       "name": "Xutik",
       "artist_id": "Xutik",
-      "clicks": 159
+      "clicks": 160
     },
     {
       "id": "Z E R O",
@@ -57337,7 +57488,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0031063367_10.jpg",
       "name": "Zikin",
       "artist_id": "Zikin",
-      "clicks": 89
+      "clicks": 90
     },
     {
       "id": "Zinez",
@@ -57361,7 +57512,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0016523620_10.jpg",
       "name": "abereh",
       "artist_id": "abereh",
-      "clicks": 382
+      "clicks": 392
     },
     {
       "id": "argazki bat behelainoan",
@@ -57373,7 +57524,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0038339366_10.jpg",
       "name": "argazki bat behelainoan",
       "artist_id": "argazki bat behelainoan",
-      "clicks": 103
+      "clicks": 107
     },
     {
       "id": "gori gori",
@@ -57433,7 +57584,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0007176399_10.jpg",
       "name": "inoren ero ni",
       "artist_id": "inoren ero ni",
-      "clicks": 113
+      "clicks": 114
     },
     {
       "id": "karr333ra",
@@ -57493,10 +57644,27 @@
       "artist_image_large": "https://f4.bcbits.com/img/0010702505_10.jpg",
       "name": "Üther",
       "artist_id": "Üther",
-      "clicks": 24
+      "clicks": 25
     }
   ],
   "albums": [
+    {
+      "id": "351564937",
+      "createdAt": {
+        "_seconds": 1767006802,
+        "_nanoseconds": 217000000
+      },
+      "album_image_large": "https://f4.bcbits.com/img/a68654312_10.jpg",
+      "art_id": 68654312,
+      "artist": "Sueder",
+      "album_image": "https://f4.bcbits.com/img/a68654312_3.jpg",
+      "album_release_date": "14 Nov 2025 00:00:00 GMT",
+      "album_id": 351564937,
+      "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=351564937/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=3358019286/transparent=true/\" seamless><a href=\"https://sueder.bandcamp.com/track/bagoaz\">Bagoaz by Sueder</a></iframe>",
+      "title": "Bagoaz",
+      "artist_id": "Sueder",
+      "url": "https://sueder.bandcamp.com/track/bagoaz"
+    },
     {
       "id": "119864228",
       "createdAt": {
@@ -57512,7 +57680,8 @@
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=119864228/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/\" seamless><a href=\"https://thepurplesrock.bandcamp.com/track/export\">Export by The Purples</a></iframe>",
       "title": "Export",
       "artist_id": "The Purples",
-      "url": "https://thepurplesrock.bandcamp.com/track/export"
+      "url": "https://thepurplesrock.bandcamp.com/track/export",
+      "clicks": 3
     },
     {
       "id": "3943737012",
@@ -57529,7 +57698,8 @@
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/track=3943737012/size=large/bgcol=333333/linkcol=ffffff/artwork=small/transparent=true/\" seamless><a href=\"https://thepurplesrock.bandcamp.com/track/johny\">Johny by The Purples</a></iframe>",
       "title": "Johny",
       "artist_id": "The Purples",
-      "url": "https://thepurplesrock.bandcamp.com/track/johny"
+      "url": "https://thepurplesrock.bandcamp.com/track/johny",
+      "clicks": 3
     },
     {
       "id": "4133794545",
@@ -57546,7 +57716,8 @@
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4133794545/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=981268901/transparent=true/\" seamless><a href=\"https://thepurplesrock.bandcamp.com/album/the-purples\">The Purples by The Purples</a></iframe>",
       "title": "The Purples",
       "artist_id": "The Purples",
-      "url": "https://thepurplesrock.bandcamp.com/album/the-purples"
+      "url": "https://thepurplesrock.bandcamp.com/album/the-purples",
+      "clicks": 8
     },
     {
       "id": "909451109",
@@ -57564,7 +57735,7 @@
         "_seconds": 1766959827,
         "_nanoseconds": 767000000
       },
-      "clicks": 4
+      "clicks": 5
     },
     {
       "id": "1507018990",
@@ -57600,7 +57771,7 @@
         "_seconds": 1766959825,
         "_nanoseconds": 669000000
       },
-      "clicks": 2
+      "clicks": 3
     },
     {
       "id": "1347505578",
@@ -57864,7 +58035,7 @@
       "title": "Jai Alai (LP12\"+CD, 2025)",
       "artist_id": "Akainak",
       "url": "https://akainak.bandcamp.com/album/jai-alai-lp12-cd-2025",
-      "clicks": 54
+      "clicks": 59
     },
     {
       "id": "447904104",
@@ -58170,7 +58341,7 @@
       "title": "DENOK GARA ETSAI",
       "artist_id": "Viafara",
       "url": "https://viafarataldea.bandcamp.com/album/denok-gara-etsai",
-      "clicks": 14
+      "clicks": 15
     },
     {
       "id": "2228519303",
@@ -58189,7 +58360,7 @@
       "title": "-092- BELLUM \"Gure Gerra\" 12\"",
       "artist_id": "BELLUM",
       "url": "https://mendekudiskak.bandcamp.com/album/092-bellum-gure-gerra-12",
-      "clicks": 114
+      "clicks": 116
     },
     {
       "id": "730948944",
@@ -58455,7 +58626,7 @@
       "title": "IKARI LEHENA",
       "artist_id": "Izvkiari",
       "url": "https://hagina.bandcamp.com/album/ikari-lehena-2",
-      "clicks": 23
+      "clicks": 25
     },
     {
       "id": "2704024920",
@@ -58569,7 +58740,7 @@
       "title": "Anomia",
       "artist_id": "ALBA",
       "url": "https://bidehuts.bandcamp.com/album/anomia",
-      "clicks": 80
+      "clicks": 84
     },
     {
       "id": "3205050400",
@@ -58607,7 +58778,7 @@
       "title": "BD19 // ADRIAN PEREZ Lozorroan epel",
       "artist_id": "Adrian Perez",
       "url": "https://baliodute.bandcamp.com/album/bd19-adrian-perez-lozorroan-epel",
-      "clicks": 97
+      "clicks": 103
     },
     {
       "id": "1437805422",
@@ -58643,7 +58814,7 @@
       "title": "LOTAN",
       "artist_id": "Xatiro",
       "url": "https://xatiro.bandcamp.com/track/lotan",
-      "clicks": 72
+      "clicks": 74
     },
     {
       "id": "3695775101",
@@ -59038,7 +59209,7 @@
       "title": "Intro",
       "artist_id": "Fito SKins",
       "url": "https://fitoskins.bandcamp.com/track/intro",
-      "clicks": 132
+      "clicks": 135
     },
     {
       "id": "3497384551",
@@ -59128,7 +59299,7 @@
       "title": "Intro",
       "artist_id": "Autobus Magikoa",
       "url": "https://autobusmagikoa.bandcamp.com/track/intro",
-      "clicks": 544
+      "clicks": 547
     },
     {
       "id": "2162490908",
@@ -59236,7 +59407,7 @@
       "title": "Zementua Armosaten",
       "artist_id": "Zikin",
       "url": "https://zikin.bandcamp.com/album/zementua-armosaten",
-      "clicks": 8
+      "clicks": 11
     },
     {
       "id": "1046263275",
@@ -59254,7 +59425,7 @@
       "title": "Bala Galdua Zure Buru Galduan",
       "artist_id": "Zikin",
       "url": "https://zikin.bandcamp.com/album/bala-galdua-zure-buru-galduan",
-      "clicks": 12
+      "clicks": 13
     },
     {
       "id": "1644947819",
@@ -59344,7 +59515,7 @@
       "title": "Bizitza Batten Borroka",
       "artist_id": "Xutik",
       "url": "https://xutikkba.bandcamp.com/track/bizitza-batten-borroka",
-      "clicks": 28
+      "clicks": 30
     },
     {
       "id": "3671726582",
@@ -59362,7 +59533,7 @@
       "title": "Erori gabe",
       "artist_id": "Xutik",
       "url": "https://xutikkba.bandcamp.com/track/erori-gabe",
-      "clicks": 29
+      "clicks": 31
     },
     {
       "id": "3526849958",
@@ -59380,7 +59551,7 @@
       "title": "Harma Tiro Pun",
       "artist_id": "Xutik",
       "url": "https://xutikkba.bandcamp.com/track/harma-tiro-pun",
-      "clicks": 49
+      "clicks": 51
     },
     {
       "id": "3290898507",
@@ -59398,7 +59569,7 @@
       "title": "Ametsak",
       "artist_id": "Xutik",
       "url": "https://xutikkba.bandcamp.com/track/ametsak",
-      "clicks": 113
+      "clicks": 114
     },
     {
       "id": "2593501514",
@@ -59416,7 +59587,7 @@
       "title": "Kantu Berrien Azalean",
       "artist_id": "Xutik",
       "url": "https://xutikkba.bandcamp.com/album/kantu-berrien-azalean",
-      "clicks": 52
+      "clicks": 54
     },
     {
       "id": "3078512338",
@@ -59452,7 +59623,7 @@
       "title": "Bizitzaren legea",
       "artist_id": "Xabier Badiola",
       "url": "https://xabierbadiola.bandcamp.com/track/bizitzaren-legea-2",
-      "clicks": 64
+      "clicks": 65
     },
     {
       "id": "1609043165",
@@ -59578,7 +59749,7 @@
       "title": "DANA",
       "artist_id": "VIBORA",
       "url": "https://viborahc.bandcamp.com/track/dana",
-      "clicks": 4
+      "clicks": 5
     },
     {
       "id": "2549084409",
@@ -59740,7 +59911,7 @@
       "title": "VOL.1",
       "artist_id": "tzar",
       "url": "https://tzartzartzar.bandcamp.com/album/vol-1",
-      "clicks": 6
+      "clicks": 7
     },
     {
       "id": "896379761",
@@ -59883,7 +60054,7 @@
       "title": "NO SER",
       "artist_id": "The Covenant",
       "url": "https://thecovenantband.bandcamp.com/album/no-ser",
-      "clicks": 4
+      "clicks": 5
     },
     {
       "id": "3305442142",
@@ -60009,7 +60180,7 @@
         "_seconds": 1765455598,
         "_nanoseconds": 837000000
       },
-      "clicks": 17
+      "clicks": 18
     },
     {
       "id": "2202326824",
@@ -60510,7 +60681,7 @@
       "title": "Arrabioa arrabio",
       "artist_id": "Physis versus Nomos",
       "url": "https://physisversusnomos.bandcamp.com/album/arrabioa-arrabio",
-      "clicks": 7
+      "clicks": 8
     },
     {
       "id": "4056128320",
@@ -60600,7 +60771,7 @@
       "title": "Duguna esateko",
       "artist_id": "Perlata",
       "url": "https://perlata.bandcamp.com/album/duguna-esateko",
-      "clicks": 11
+      "clicks": 13
     },
     {
       "id": "1964641934",
@@ -60618,7 +60789,7 @@
       "title": "ZARATA",
       "artist_id": "Perlata",
       "url": "https://perlata.bandcamp.com/album/zarata",
-      "clicks": 8
+      "clicks": 14
     },
     {
       "id": "418417488",
@@ -60636,7 +60807,7 @@
       "title": "ALOSIA",
       "artist_id": "Perlata",
       "url": "https://perlata.bandcamp.com/album/alosia",
-      "clicks": 40
+      "clicks": 42
     },
     {
       "id": "1407091604",
@@ -60762,7 +60933,7 @@
       "title": "Koberrak",
       "artist_id": "PELAX",
       "url": "https://pelax.bandcamp.com/album/koberrak",
-      "clicks": 42
+      "clicks": 44
     },
     {
       "id": "3028562850",
@@ -60888,7 +61059,7 @@
       "title": "HAUTZ TARTIAN",
       "artist_id": "ONLIFLY",
       "url": "https://onlifly.bandcamp.com/album/hautz-tartian",
-      "clicks": 14
+      "clicks": 16
     },
     {
       "id": "2422684517",
@@ -61500,7 +61671,7 @@
       "title": "11 istorio, bROnCKa ta gau ero (2010)",
       "artist_id": "Never Surrender",
       "url": "https://neversurrender108.bandcamp.com/album/11-istorio-broncka-ta-gau-ero-2010",
-      "clicks": 8
+      "clicks": 9
     },
     {
       "id": "3225569053",
@@ -61518,7 +61689,7 @@
       "title": "Bide Zuzenetik Oker (2012)",
       "artist_id": "Never Surrender",
       "url": "https://neversurrender108.bandcamp.com/album/bide-zuzenetik-oker-2012",
-      "clicks": 50
+      "clicks": 51
     },
     {
       "id": "2663182293",
@@ -61588,7 +61759,7 @@
       "title": "Arketipoak",
       "artist_id": "Neu Troia",
       "url": "https://neutroia.bandcamp.com/album/arketipoak",
-      "clicks": 5
+      "clicks": 6
     },
     {
       "id": "3368788490",
@@ -61624,7 +61795,7 @@
       "title": "Matxenia II",
       "artist_id": "Naxker",
       "url": "https://naxker.bandcamp.com/album/matxenia-ii",
-      "clicks": 182
+      "clicks": 184
     },
     {
       "id": "2882506980",
@@ -61642,7 +61813,7 @@
       "title": "Nori jarriko dizkiozu gure abestiak?",
       "artist_id": "Naxker",
       "url": "https://naxker.bandcamp.com/album/nori-jarriko-dizkiozu-gure-abestiak",
-      "clicks": 302
+      "clicks": 309
     },
     {
       "id": "856314194",
@@ -61660,7 +61831,7 @@
       "title": "Lore ta laban",
       "artist_id": "Nakar",
       "url": "https://nakar.bandcamp.com/album/lore-ta-laban",
-      "clicks": 118
+      "clicks": 125
     },
     {
       "id": "716322489",
@@ -61678,7 +61849,7 @@
       "title": "Epelkeriaren Kontra II (Manifestu Antiepelista)",
       "artist_id": "Nakar",
       "url": "https://nakar.bandcamp.com/track/epelkeriaren-kontra-ii-manifestu-antiepelista",
-      "clicks": 122
+      "clicks": 130
     },
     {
       "id": "2748334275",
@@ -62488,7 +62659,7 @@
       "title": "KOBAN",
       "artist_id": "KOBAN",
       "url": "https://kobantaldea.bandcamp.com/album/koban",
-      "clicks": 43
+      "clicks": 44
     },
     {
       "id": "4060828240",
@@ -63225,7 +63396,7 @@
       "title": "il cercatore di perle",
       "artist_id": "inoren ero ni",
       "url": "https://inoreneroni1.bandcamp.com/album/il-cercatore-di-perle",
-      "clicks": 49
+      "clicks": 50
     },
     {
       "id": "1416226803",
@@ -63351,7 +63522,7 @@
       "title": "AZOKA merchandaise",
       "artist_id": "HUMILITATE",
       "url": "https://humilitate.bandcamp.com/album/azoka-merchandaise",
-      "clicks": 5
+      "clicks": 6
     },
     {
       "id": "2858132735",
@@ -63459,7 +63630,7 @@
       "title": "Barealdiaren ondorengo ekaitzak...",
       "artist_id": "HORZDUN",
       "url": "https://horzdun.bandcamp.com/album/barealdiaren-ondorengo-ekaitzak",
-      "clicks": 7
+      "clicks": 8
     },
     {
       "id": "47757071",
@@ -63585,7 +63756,7 @@
       "title": "Biluzik eta suaren inguruan",
       "artist_id": "hitz tantak",
       "url": "https://hitztantak.bandcamp.com/album/biluzik-eta-suaren-inguruan",
-      "clicks": 25
+      "clicks": 26
     },
     {
       "id": "934340651",
@@ -63693,7 +63864,7 @@
         "_seconds": 1765446737,
         "_nanoseconds": 841000000
       },
-      "clicks": 41
+      "clicks": 43
     },
     {
       "id": "385033062",
@@ -63747,7 +63918,7 @@
       "title": "Ginger",
       "artist_id": "Ginger",
       "url": "https://gingerband.bandcamp.com/album/ginger-2",
-      "clicks": 22
+      "clicks": 23
     },
     {
       "id": "933111227",
@@ -63909,7 +64080,7 @@
       "title": "Norantza Berean",
       "artist_id": "Garena",
       "url": "https://garena.bandcamp.com/album/norantza-berean",
-      "clicks": 27
+      "clicks": 30
     },
     {
       "id": "3904947392",
@@ -64035,7 +64206,7 @@
       "title": "Kanturik Ez Bada",
       "artist_id": "Esanezin",
       "url": "https://esanezin.bandcamp.com/track/kanturik-ez-bada",
-      "clicks": 88
+      "clicks": 89
     },
     {
       "id": "4278166083",
@@ -64053,7 +64224,7 @@
       "title": "Gure Zauria (ft. Sara Zozaya)",
       "artist_id": "Esanezin",
       "url": "https://esanezin.bandcamp.com/track/gure-zauria-ft-sara-zozaya",
-      "clicks": 40
+      "clicks": 41
     },
     {
       "id": "2367693217",
@@ -64071,7 +64242,7 @@
       "title": "Hormetan Idazten",
       "artist_id": "Esanezin",
       "url": "https://esanezin.bandcamp.com/album/hormetan-idazten",
-      "clicks": 259
+      "clicks": 260
     },
     {
       "id": "300987767",
@@ -64125,7 +64296,7 @@
       "title": "Siempre Me Siento Regular",
       "artist_id": "Chulería joder",
       "url": "https://chuleriajoder.bandcamp.com/album/siempre-me-siento-regular",
-      "clicks": 150
+      "clicks": 155
     },
     {
       "id": "4023611311",
@@ -64179,7 +64350,7 @@
       "title": "Azken kantua balitz",
       "artist_id": "Broken Brothers Brass Band",
       "url": "https://brokenbrothersbrassband.bandcamp.com/track/azken-kantua-balitz-2",
-      "clicks": 142
+      "clicks": 147
     },
     {
       "id": "879856626",
@@ -64251,7 +64422,7 @@
       "title": "Borrokan",
       "artist_id": "Borrokan",
       "url": "https://borrokan.bandcamp.com/album/borrokan-2",
-      "clicks": 35
+      "clicks": 37
     },
     {
       "id": "870926406",
@@ -64323,7 +64494,7 @@
       "title": "Galerari emanak",
       "artist_id": "BÑT",
       "url": "https://bnte.bandcamp.com/track/galerari-emanak",
-      "clicks": 30
+      "clicks": 32
     },
     {
       "id": "3649038020",
@@ -64341,7 +64512,7 @@
       "title": "50",
       "artist_id": "BLOÑ",
       "url": "https://blonbanolet.bandcamp.com/track/50",
-      "clicks": 159
+      "clicks": 162
     },
     {
       "id": "2866727013",
@@ -64395,7 +64566,7 @@
       "title": "emen",
       "artist_id": "Birkit",
       "url": "https://birkit.bandcamp.com/album/emen",
-      "clicks": 6
+      "clicks": 7
     },
     {
       "id": "160632467",
@@ -64683,7 +64854,7 @@
       "title": "BASATI-YAK 2021/11/29",
       "artist_id": "BAZKA",
       "url": "https://bazka.bandcamp.com/track/basati-yak-2021-11-29",
-      "clicks": 137
+      "clicks": 138
     },
     {
       "id": "4204512871",
@@ -64970,7 +65141,7 @@
       "title": "lo",
       "artist_id": "argazki bat behelainoan",
       "url": "https://argazkibatbehelainoan.bandcamp.com/album/lo",
-      "clicks": 1
+      "clicks": 2
     },
     {
       "id": "1278136450",
@@ -65006,7 +65177,7 @@
       "title": "Su Grekoa",
       "artist_id": "argazki bat behelainoan",
       "url": "https://argazkibatbehelainoan.bandcamp.com/album/su-grekoa",
-      "clicks": 3
+      "clicks": 5
     },
     {
       "id": "3551982482",
@@ -65096,7 +65267,7 @@
       "title": "Geldi Gu Eta Dena Huts",
       "artist_id": "argazki bat behelainoan",
       "url": "https://argazkibatbehelainoan.bandcamp.com/album/geldi-gu-eta-dena-huts",
-      "clicks": 85
+      "clicks": 90
     },
     {
       "id": "1942419350",
@@ -65168,7 +65339,7 @@
       "title": "DEUS",
       "artist_id": "AGARA",
       "url": "https://agara.bandcamp.com/track/deus",
-      "clicks": 105
+      "clicks": 107
     },
     {
       "id": "1835528751",
@@ -65204,7 +65375,7 @@
       "title": "NEKEA",
       "artist_id": "Adur",
       "url": "https://adur.bandcamp.com/album/nekea-4",
-      "clicks": 159
+      "clicks": 161
     },
     {
       "id": "1227490440",
@@ -65240,7 +65411,7 @@
       "title": "Logela Sessions",
       "artist_id": "abereh",
       "url": "https://abereh.bandcamp.com/album/logela-sessions",
-      "clicks": 19
+      "clicks": 21
     },
     {
       "id": "2208417966",
@@ -65294,7 +65465,7 @@
       "title": "Joan-etorrian",
       "artist_id": "abereh",
       "url": "https://abereh.bandcamp.com/album/joan-etorrian",
-      "clicks": 307
+      "clicks": 310
     },
     {
       "id": "2645919978",
@@ -65330,7 +65501,7 @@
       "title": "Atseden eske",
       "artist_id": "DENA",
       "url": "https://denaezer.bandcamp.com/track/atseden-eske-2",
-      "clicks": 7
+      "clicks": 8
     },
     {
       "id": "2085694111",
@@ -65348,7 +65519,7 @@
       "title": "Ezer Sentitzeko",
       "artist_id": "DENA",
       "url": "https://denaezer.bandcamp.com/album/ezer-sentitzeko",
-      "clicks": 7
+      "clicks": 8
     },
     {
       "id": "4270742164",
@@ -65366,7 +65537,7 @@
       "title": "Zure mugadun hutsune",
       "artist_id": "DENA",
       "url": "https://denaezer.bandcamp.com/album/zure-mugadun-hutsune",
-      "clicks": 15
+      "clicks": 16
     },
     {
       "id": "3293985618",
@@ -65420,7 +65591,7 @@
         "_seconds": 1765371090,
         "_nanoseconds": 213000000
       },
-      "clicks": 63
+      "clicks": 67
     },
     {
       "id": "691863664",
@@ -65438,7 +65609,7 @@
         "_seconds": 1765371089,
         "_nanoseconds": 138000000
       },
-      "clicks": 55
+      "clicks": 57
     },
     {
       "id": "43796360",
@@ -65456,7 +65627,7 @@
         "_seconds": 1765371087,
         "_nanoseconds": 764000000
       },
-      "clicks": 136
+      "clicks": 143
     },
     {
       "id": "903256652",
@@ -65474,7 +65645,7 @@
         "_seconds": 1765371086,
         "_nanoseconds": 559000000
       },
-      "clicks": 334
+      "clicks": 341
     },
     {
       "id": "2244428484",
@@ -65510,7 +65681,7 @@
         "_seconds": 1765370070,
         "_nanoseconds": 735000000
       },
-      "clicks": 322
+      "clicks": 326
     },
     {
       "id": "536883197",
@@ -65672,7 +65843,7 @@
         "_seconds": 1765297789,
         "_nanoseconds": 440000000
       },
-      "clicks": 680
+      "clicks": 687
     },
     {
       "id": "1394251255",
@@ -65690,7 +65861,7 @@
       "title": "demo",
       "artist_id": "Borla",
       "url": "https://borla.bandcamp.com/album/demo",
-      "clicks": 22
+      "clicks": 24
     },
     {
       "id": "3323424957",
@@ -65726,7 +65897,7 @@
       "title": "Kordoba Bidea",
       "artist_id": "Borla",
       "url": "https://borla.bandcamp.com/album/kordoba-bidea",
-      "clicks": 112
+      "clicks": 117
     },
     {
       "id": "1198666455",
@@ -65744,7 +65915,7 @@
       "title": "Egunen Batean",
       "artist_id": "Borla",
       "url": "https://borla.bandcamp.com/track/egunen-batean",
-      "clicks": 179
+      "clicks": 181
     }
   ]
 }
