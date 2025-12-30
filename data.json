@@ -17,7 +17,8 @@
       "track_num": 1,
       "album_id": 4115330688,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4115330688/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1000510869/transparent=true/\" seamless><a href=\"https://algoritmotikat.bandcamp.com/album/heroiak\">HEROIAK by Algoritmötik At</a></iframe>",
-      "track": "1937"
+      "track": "1937",
+      "clicks": 1
     },
     {
       "album_image_large": "https://f4.bcbits.com/img/a4196058713_10.jpg",
@@ -561,7 +562,7 @@
       "album_id": 1388797113,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1388797113/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1044952565/transparent=true/\" seamless><a href=\"https://baliodute.bandcamp.com/album/bd19-adrian-perez-lozorroan-epel\">BD19 // ADRIAN PEREZ Lozorroan epel by BALIO DUTE</a></iframe>",
       "track": "Ikustezina",
-      "clicks": 17
+      "clicks": 18
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/44782dfeb3679be65e0d3ca5cb5417d7/mp3-128/1046011653?p=0&ts=1765532762&t=e43744a27802c9df6d17953f243bfe01268847e2&token=1765532762_bd44568bb3dbb1ee933b2bbbce3897b0553fa2d8",
@@ -15944,7 +15945,7 @@
       "album_id": 1984354955,
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1984354955/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=2115403267/transparent=true/\" seamless><a href=\"https://borla.bandcamp.com/album/kordoba-bidea\">Kordoba Bidea by Borla</a></iframe>",
       "track": "Berorik Ez",
-      "clicks": 18
+      "clicks": 19
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/bf337c4f6929202dfdf3beeba6db0d71/mp3-128/2116032898?p=0&ts=1765532816&t=62bc7bf1d9cf0d596509d4fe9a0fd362632d4a14&token=1765532816_0c5fe0d0465a8a9635a6d5fcdb59a5e2182b4101",
@@ -27749,7 +27750,7 @@
       },
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=3649038020/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=2911039549/transparent=true/\" seamless><a href=\"https://blonbanolet.bandcamp.com/track/50\">50 by Bloñ</a></iframe>",
       "url": "https://blonbanolet.bandcamp.com/track/50",
-      "clicks": 18
+      "clicks": 19
     },
     {
       "album_image_large": "https://f4.bcbits.com/img/a1727375564_10.jpg",
@@ -27982,7 +27983,7 @@
       },
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=1942419350/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=2927328998/transparent=true/\" seamless><a href=\"https://aposapo.bandcamp.com/track/nights\">Nights by APOSAPO</a></iframe>",
       "url": "https://aposapo.bandcamp.com/track/nights",
-      "clicks": 20
+      "clicks": 21
     },
     {
       "album_image_large": "https://f4.bcbits.com/img/a3135170958_10.jpg",
@@ -45347,7 +45348,7 @@
       },
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=726950526/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=4103988888/transparent=true/\" seamless><a href=\"https://seisega.bandcamp.com/track/sei-sega\">Sei Sega by Sei Sega</a></iframe>",
       "url": "https://seisega.bandcamp.com/track/sei-sega",
-      "clicks": 6
+      "clicks": 7
     },
     {
       "mp3_url": "https://t4.bcbits.com/stream/4337c67dbcda3f32947cad18f1c9bc4f/mp3-128/4104931162?p=0&ts=1765532816&t=c8604b09178b597cf5d69e5accc8c67d3100a576&token=1765532816_c117899456c83cd1ff52d92ece6c5d78b96e771d",
@@ -55417,7 +55418,7 @@
       "album": "Intro",
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=539974195/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=948188461/transparent=true/\" seamless><a href=\"https://autobusmagikoa.bandcamp.com/track/intro\">Intro by Autobus Magikoa</a></iframe>",
       "url": "https://autobusmagikoa.bandcamp.com/track/intro",
-      "clicks": 72
+      "clicks": 73
     },
     {
       "album_image_large": "https://f4.bcbits.com/img/a3373996396_10.jpg",
@@ -56378,7 +56379,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0040842690_10.jpg",
       "name": "AGARA",
       "artist_id": "AGARA",
-      "clicks": 162
+      "clicks": 164
     },
     {
       "id": "ALBA",
@@ -56403,7 +56404,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0039122114_10.jpg",
       "name": "APOSAPO",
       "artist_id": "APOSAPO",
-      "clicks": 150
+      "clicks": 151
     },
     {
       "id": "Adrian Perez",
@@ -56416,7 +56417,7 @@
       "isManual": true,
       "name": "Adrian Perez",
       "artist_id": "Adrian Perez",
-      "clicks": 167
+      "clicks": 169
     },
     {
       "id": "Adur",
@@ -56451,7 +56452,8 @@
       "artist_image": "https://f4.bcbits.com/img/0042202050_21.jpg",
       "artist_image_large": "https://f4.bcbits.com/img/0042202050_10.jpg",
       "name": "Algoritmötik At",
-      "artist_id": "Algoritmötik At"
+      "artist_id": "Algoritmötik At",
+      "clicks": 1
     },
     {
       "id": "Audience",
@@ -56488,7 +56490,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0013660993_10.jpg",
       "name": "Azalera Taldea",
       "artist_id": "Azalera Taldea",
-      "clicks": 62
+      "clicks": 63
     },
     {
       "id": "BAZKA",
@@ -56513,7 +56515,7 @@
       "isManual": true,
       "name": "BELLUM",
       "artist_id": "BELLUM",
-      "clicks": 109
+      "clicks": 110
     },
     {
       "id": "BETA PROIEKTUA",
@@ -56525,7 +56527,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0027418796_10.jpg",
       "name": "BETA PROIEKTUA",
       "artist_id": "BETA PROIEKTUA",
-      "clicks": 46
+      "clicks": 47
     },
     {
       "id": "BIDERBOST",
@@ -56549,7 +56551,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0027108526_10.jpg",
       "name": "BLOÑ",
       "artist_id": "BLOÑ",
-      "clicks": 161
+      "clicks": 162
     },
     {
       "id": "BRAULIO",
@@ -56597,7 +56599,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0040944523_10.jpg",
       "name": "Berandu Baino Lehen",
       "artist_id": "Berandu Baino Lehen",
-      "clicks": 92
+      "clicks": 93
     },
     {
       "id": "Bi zaldi",
@@ -56657,7 +56659,7 @@
       "artist_id": "Borla",
       "artist_image": "https://f4.bcbits.com/img/0035950473_21.jpg",
       "artist_image_large": "https://f4.bcbits.com/img/0035950473_10.jpg",
-      "clicks": 267
+      "clicks": 268
     },
     {
       "id": "Borrokan",
@@ -56705,7 +56707,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0034692924_10.jpg",
       "name": "Chulería joder",
       "artist_id": "Chulería joder",
-      "clicks": 207
+      "clicks": 208
     },
     {
       "id": "Cuero",
@@ -56816,7 +56818,7 @@
       },
       "artist_image": "https://f4.bcbits.com/img/0041868913_21.jpg",
       "artist_image_large": "https://f4.bcbits.com/img/0041868913_10.jpg",
-      "clicks": 845
+      "clicks": 846
     },
     {
       "id": "Fito SKins",
@@ -57215,7 +57217,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0037802631_10.jpg",
       "name": "Kokein",
       "artist_id": "Kokein",
-      "clicks": 120
+      "clicks": 121
     },
     {
       "id": "Kuma No Motor",
@@ -57407,7 +57409,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0041442707_10.jpg",
       "name": "Mikosis",
       "artist_id": "Mikosis",
-      "clicks": 51
+      "clicks": 52
     },
     {
       "id": "Misseo Future",
@@ -57431,7 +57433,7 @@
         "_nanoseconds": 736000000
       },
       "artist_image_large": "https://f4.bcbits.com/img/0041565662_10.jpg",
-      "clicks": 376
+      "clicks": 377
     },
     {
       "id": "Muare",
@@ -57802,7 +57804,8 @@
       "artist_image": "https://f4.bcbits.com/img/0042183772_21.jpg",
       "artist_image_large": "https://f4.bcbits.com/img/0042183772_10.jpg",
       "name": "The Purples",
-      "artist_id": "The Purples"
+      "artist_id": "The Purples",
+      "clicks": 2
     },
     {
       "id": "The Rodeo Idiot Engine",
@@ -57994,7 +57997,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0016523620_10.jpg",
       "name": "abereh",
       "artist_id": "abereh",
-      "clicks": 432
+      "clicks": 434
     },
     {
       "id": "argazki bat behelainoan",
@@ -58006,7 +58009,7 @@
       "artist_image_large": "https://f4.bcbits.com/img/0038339366_10.jpg",
       "name": "argazki bat behelainoan",
       "artist_id": "argazki bat behelainoan",
-      "clicks": 113
+      "clicks": 114
     },
     {
       "id": "gori gori",
@@ -58145,7 +58148,8 @@
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4133794545/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=981268901/transparent=true/\" seamless><a href=\"https://thepurplesrock.bandcamp.com/album/the-purples\">The Purples by The Purples</a></iframe>",
       "title": "The Purples",
       "artist_id": "The Purples",
-      "url": "https://thepurplesrock.bandcamp.com/album/the-purples"
+      "url": "https://thepurplesrock.bandcamp.com/album/the-purples",
+      "clicks": 2
     },
     {
       "id": "1100623044",
@@ -58247,7 +58251,8 @@
       "embed": "<iframe style=\"border: 0; width: 400px; height: 472px;\" src=\"https://bandcamp.com/EmbeddedPlayer/album=4115330688/size=large/bgcol=333333/linkcol=ffffff/artwork=small/track=1000510869/transparent=true/\" seamless><a href=\"https://algoritmotikat.bandcamp.com/album/heroiak\">HEROIAK by Algoritmötik At</a></iframe>",
       "title": "HEROIAK",
       "artist_id": "Algoritmötik At",
-      "url": "https://algoritmotikat.bandcamp.com/album/heroiak"
+      "url": "https://algoritmotikat.bandcamp.com/album/heroiak",
+      "clicks": 1
     },
     {
       "id": "784617962",
@@ -59344,7 +59349,7 @@
       "title": "BD19 // ADRIAN PEREZ Lozorroan epel",
       "artist_id": "Adrian Perez",
       "url": "https://baliodute.bandcamp.com/album/bd19-adrian-perez-lozorroan-epel",
-      "clicks": 109
+      "clicks": 110
     },
     {
       "id": "1437805422",
@@ -62361,7 +62366,7 @@
       "title": "Matxenia II",
       "artist_id": "Naxker",
       "url": "https://naxker.bandcamp.com/album/matxenia-ii",
-      "clicks": 197
+      "clicks": 199
     },
     {
       "id": "2882506980",
@@ -62379,7 +62384,7 @@
       "title": "Nori jarriko dizkiozu gure abestiak?",
       "artist_id": "Naxker",
       "url": "https://naxker.bandcamp.com/album/nori-jarriko-dizkiozu-gure-abestiak",
-      "clicks": 329
+      "clicks": 330
     },
     {
       "id": "856314194",
@@ -62703,7 +62708,7 @@
       "title": "Isiltasunaren Lakua",
       "artist_id": "Mikosis",
       "url": "https://mikosis.bandcamp.com/track/isiltasunaren-lakua",
-      "clicks": 24
+      "clicks": 26
     },
     {
       "id": "3464983541",
@@ -62721,7 +62726,7 @@
       "title": "Ez Sentitzeko",
       "artist_id": "Mikosis",
       "url": "https://mikosis.bandcamp.com/track/ez-sentitzeko",
-      "clicks": 38
+      "clicks": 40
     },
     {
       "id": "1700046780",
@@ -63189,7 +63194,7 @@
       "title": "Bidea Da Helmuga",
       "artist_id": "Kokein",
       "url": "https://kokein.bandcamp.com/album/bidea-da-helmuga",
-      "clicks": 90
+      "clicks": 92
     },
     {
       "id": "569101164",
@@ -64862,7 +64867,7 @@
       "title": "Siempre Me Siento Regular",
       "artist_id": "Chulería joder",
       "url": "https://chuleriajoder.bandcamp.com/album/siempre-me-siento-regular",
-      "clicks": 172
+      "clicks": 174
     },
     {
       "id": "4023611311",
@@ -65078,7 +65083,7 @@
       "title": "50",
       "artist_id": "BLOÑ",
       "url": "https://blonbanolet.bandcamp.com/track/50",
-      "clicks": 171
+      "clicks": 172
     },
     {
       "id": "2866727013",
@@ -65402,7 +65407,7 @@
       "title": "SEMTEX H - Abandoned Playgrounds",
       "artist_id": "BETA PROIEKTUA",
       "url": "https://betaproiektua.bandcamp.com/album/semtex-h-abandoned-playgrounds",
-      "clicks": 20
+      "clicks": 21
     },
     {
       "id": "2276807099",
@@ -65851,7 +65856,7 @@
       "title": "Nights",
       "artist_id": "APOSAPO",
       "url": "https://aposapo.bandcamp.com/track/nights",
-      "clicks": 119
+      "clicks": 121
     },
     {
       "id": "1363922855",
@@ -66247,7 +66252,7 @@
         "_seconds": 1765370070,
         "_nanoseconds": 735000000
       },
-      "clicks": 370
+      "clicks": 372
     },
     {
       "id": "536883197",
@@ -66463,7 +66468,7 @@
       "title": "Kordoba Bidea",
       "artist_id": "Borla",
       "url": "https://borla.bandcamp.com/album/kordoba-bidea",
-      "clicks": 145
+      "clicks": 146
     },
     {
       "id": "1198666455",
@@ -66481,7 +66486,7 @@
       "title": "Egunen Batean",
       "artist_id": "Borla",
       "url": "https://borla.bandcamp.com/track/egunen-batean",
-      "clicks": 194
+      "clicks": 195
     }
   ]
 }
